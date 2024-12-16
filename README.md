@@ -14,7 +14,7 @@ The dataset consists of images categorized into training and test sets:
 - **Test Set**: Used for evaluating the model's performance. Both datasets were preprocessed with the `ImageDataGenerator` utility from TensorFlow.
 
 Images were resized to 128 * 128 pixels, and binary classification was implemented.
-
+You can view my data set in this [link(https://drive.google.com/drive/u/0/folders/1RyLI4Ti578XupZWr6F-EsYD-FeJ6p0ij)](https://drive.google.com/drive/u/0/folders/1RyLI4Ti578XupZWr6F-EsYD-FeJ6p0ij)
 ---
 
 ### Machine Learning Model
@@ -32,6 +32,7 @@ Key components:
 
 ### Results
 After training for multiple epochs, the model achieved significant accuracy on the test set, demonstrating its ability to classify images effectively. The learning curves (accuracy and loss over epochs) indicate the model's convergence.
+The main findings of the code can be found at the post on Medium available [here](https://medium.com/p/9180d629deb0).
 
 ---
 
